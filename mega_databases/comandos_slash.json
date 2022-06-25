@@ -1,0 +1,406 @@
+{
+  "error": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "significado": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "reportar": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  },
+  "econ": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "balance": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "ingresar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "robar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "estudiar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "retirar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "buscar-trabajo": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "trabajar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "transferir": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "mochila": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "comprar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "ranking": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "regalar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "usar": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  },
+  "gif": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "pegar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "dedito": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "bofetada": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "disparar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "besar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "comer": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "aburrido": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "abrazar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "bailar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "cantar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "dormir": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "enfadarse": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "feliz": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "hambre": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "lamer": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "miedo": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "patada": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "pensar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "saludar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "sonrojado": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "sueño": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "triste": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  },
+  "staff": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "votar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "deshabilitar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "habilitar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "info": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "unset-canal": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "advertencias": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "repite": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "borrar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "establecer": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "añadir": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "advertir": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "verify-activar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "dinero": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "blacklist": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "whitelist": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "xp": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "niveles": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "banear": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "limpiar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "set-canal": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  },
+  "bot": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "info": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "ping": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "invitar": {
+        "estado": "off",
+        "motivo": "Dori será desactivado en poco, no está permitido invitarlo a más servidores"
+      },
+      "versión": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "topgg": {
+        "estado": "off",
+        "motivo": "Dori ya no está en TopGG"
+      },
+      "normas": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  },
+  "verificar": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {}
+  },
+  "xp": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "ranking": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "ver": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "reiniciar": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  },
+  "miscelánico": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "anime": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "8ball": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "hex": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "minecraft-servidor": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "aleatorio": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "escoge": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "amor": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "roblox-avatar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "minecraft-skin": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "rgb": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  },
+  "ayuda": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {}
+  },
+  "servidor": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "yo": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  },
+  "usuario": {
+    "estado": "on",
+    "motivo": "",
+    "comandos": {
+      "lista": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "leer": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "escribir": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "eliminar": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "confesión": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "notificaciones": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "ver": {
+        "estado": "on",
+        "motivo": ""
+      },
+      "ajustes": {
+        "estado": "on",
+        "motivo": ""
+      }
+    }
+  }
+}
